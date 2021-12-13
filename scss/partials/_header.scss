@@ -1,0 +1,23 @@
+header{
+  background-color: $black;
+  height: 60px;
+  ul{
+    float: right;
+  }
+      li{
+        float:left;
+
+        a{
+          color: #fff;
+          text-decoration: none;
+          line-height: 60px;
+          font-size: 30px;
+          margin-right: 25px;
+          padding-right: 25px;
+          font-weight: normal;
+          &:hover{
+            color: #ddd;
+          }
+        }
+      }
+    }

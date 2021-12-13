@@ -1,0 +1,19 @@
+.items{
+  margin: 50px;
+  .item{
+    padding: 15px;
+    transition: 0.3s;
+    &:hover{
+      background-color: $black;    
+      h4{
+        color: white;
+            }
+            p{
+              color: white;
+            }
+          }
+        }
+  h4{
+    margin-bottom: 35px;
+    }
+  }

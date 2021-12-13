@@ -1,0 +1,29 @@
+.text-items{
+  margin: 50px 30px;
+  background-color: $black;
+  padding: 25px;
+
+  p{
+    color: #fff;
+    font-style: italic;
+    font-size: 30px;
+    font-family: 'Georgia', sans-serif;
+    font-weight: bold;
+  }
+}
+.first-part{
+  color: #00cc66;
+  font-style: italic;
+  font-size: 80px;
+  font-family: 'Georgia', sans-serif;
+  font-weight: bold;
+}
+.second-part{
+  color: #6699cc;
+  font-style: italic;
+  font-size: 30px;
+  font-family: 'Georgia', sans-serif;
+  font-weight: bold;
+  text-align: right;
+  display: block;
+}
